@@ -1,0 +1,87 @@
+{
+  "global_scale_factor": 1.0,
+  "0": {
+    "IMGFS": "MCMI",
+    "img_pattern": "/mnt/data/enghonda/deepstitch-dataset/raw_data/Terrace/Input/{camID:05d}/{imgID:05d}.jpg",
+    "nb_cameras": 14,
+    "calib_img_id": 0,
+    "nb_img_generate": 3,
+    "total_img": 430,
+    "scale_factor": 1.0
+  },
+   "1": {
+    "IMGFS": "MCMI",
+    "img_pattern": "/mnt/data/enghonda/deepstitch-dataset/raw_data/Malibu/Input/{camID:05d}/{imgID:05d}.jpg",
+    "nb_cameras": 5,
+    "calib_img_id": 0,
+    "nb_img_generate": 2,
+    "total_img": 400,
+    "scale_factor": 1.0
+  },
+   "2": {
+    "IMGFS": "MCMI",
+    "img_pattern": "/mnt/data/enghonda/deepstitch-dataset/raw_data/Airplanes/Input/{camID:05d}/{imgID:05d}.jpg",
+    "nb_cameras": 5,
+    "calib_img_id": 0,
+    "nb_img_generate": 3,
+    "total_img": 599,
+    "scale_factor": 1.0
+  },
+   "3": {
+    "IMGFS": "MCMI",
+    "img_pattern": "/mnt/data/enghonda/deepstitch-dataset/raw_data/Street/Input/{camID:05d}/{imgID:05d}.jpg",
+    "nb_cameras": 14,
+    "calib_img_id": 0,
+    "nb_img_generate": 3,
+    "total_img": 486,
+    "scale_factor": 1.0
+  },
+   "4": {
+    "IMGFS": "MCMI",
+    "img_pattern": "/mnt/data/enghonda/deepstitch-dataset/raw_data/Hangars/Input/{camID:05d}/{imgID:05d}.jpg",
+    "nb_cameras": 5,
+    "calib_img_id": 0,
+    "nb_img_generate": 2,
+    "total_img": 300,
+    "scale_factor": 1.0
+  },
+   "5": {
+    "IMGFS": "MCMI",
+    "img_pattern": "/mnt/data/enghonda/deepstitch-dataset/raw_data/Opera/Input/{camID:05d}/{imgID:05d}.jpg",
+    "nb_cameras": 5,
+    "calib_img_id": 0,
+    "nb_img_generate": 3,
+    "total_img": 450,
+    "scale_factor": 1.0
+  },
+  "6": {
+   "IMGFS": "IDIR",
+   "input_img_dir": "/mnt/data/enghonda/deepstitch-dataset/raw_data/example-data/flower",
+   "scale_factor": 0.5
+ },
+  "7": {
+   "IMGFS": "IDIR",
+   "input_img_dir": "/mnt/data/enghonda/deepstitch-dataset/raw_data/example-data/myself",
+   "scale_factor": 0.7
+ },
+  "8": {
+   "IMGFS": "IDIR",
+   "input_img_dir": "/mnt/data/enghonda/deepstitch-dataset/raw_data/example-data/NSH",
+   "scale_factor": 1.0
+ },
+  "9": {
+   "IMGFS": "IDIR",
+   "input_img_dir": "/mnt/data/enghonda/deepstitch-dataset/raw_data/UFCampus/UFWEST4",
+   "scale_factor": 1.5
+ },
+  "10": {
+   "IMGFS": "IDIR",
+   "input_img_dir": "/mnt/data/enghonda/deepstitch-dataset/raw_data/example-data/uav",
+   "scale_factor": 1.0
+ },
+  "11": {
+   "IMGFS": "IDIR",
+   "input_img_dir": "/mnt/data/enghonda/deepstitch-dataset/raw_data/example-data/zijing",
+   "scale_factor": 1.0
+ }
+}

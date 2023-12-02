@@ -1,0 +1,13 @@
+{
+    "total_dataset": 1,
+    "total_samples": 1120,
+    "0": {
+        "nb_imgs": 2,
+        "nb_cameras": 14,
+        "scale_factor": 2.0,
+        "patchX": 20,
+        "patchY": 28,
+        "patchSizeX": 256,
+        "patchSizeY": 256
+    }
+}
